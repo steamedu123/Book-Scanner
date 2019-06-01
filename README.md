@@ -12,11 +12,11 @@ DIY Book scanner
  
 <p><p><p>
 <h1> Bluetooth Camera Foot switch </h1>
-* Link : https://s.click.aliexpress.com/e/bT6LZUBA
-
  
 ![](http://img.youtube.com/vi/T_g6hAn3ROM/0.jpg)
 
 See also [Video](https://www.youtube.com/watch?v=T_g6hAn3ROM)
+<p><p>
+* Link : https://s.click.aliexpress.com/e/bT6LZUBA
 
  
