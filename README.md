@@ -16,4 +16,4 @@ DIY Book scanner
 
 See also [Video](https://www.youtube.com/watch?v=T_g6hAn3ROM)
 
- {% include footswitchvideo.html id="T_g6hAn3ROMl" %}  
+ 
