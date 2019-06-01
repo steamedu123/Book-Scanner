@@ -17,6 +17,6 @@ DIY Book scanner
 
 See also [Video](https://www.youtube.com/watch?v=T_g6hAn3ROM)
 <p><p>
-* Link : https://s.click.aliexpress.com/e/bT6LZUBA
-
+* Selfie Shutter Bluetooth Remote Control : https://s.click.aliexpress.com/e/bT6LZUBA
+* Electric Power Foot Pedal Switch : https://s.click.aliexpress.com/e/ExW34je
  
